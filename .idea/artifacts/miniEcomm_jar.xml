@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="miniEcomm:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/miniEcomm_jar</output-path>
+    <root id="archive" name="miniEcomm.jar">
+      <element id="directory" name="META-INF">
+        <element id="file-copy" path="$PROJECT_DIR$/userService/src/main/resources/META-INF/MANIFEST.MF" />
+      </element>
+    </root>
+  </artifact>
+</component>
